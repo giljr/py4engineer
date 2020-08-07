@@ -1,6 +1,7 @@
 ## Jupyter Notebook Fun Factory Archieve
 
 Hi, this is all about [Python](https://www.python.org/), easy like Python itself!
+
 Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 In this repository I will offer all my files while I am studing Python, mainly using VSCode Editor with Jupiter Notebook :notebook_with_decorative_cover:
 
@@ -32,6 +33,7 @@ and Tinker with Arduino, Rpi, PIC, Lego too, and eventually you may _toss me som
 ### Projects Jupyter Notebook list (from 2020 until today):
 
 [#00](EX_01/) #PySeries#Ep_00 - [**Python — Jupiter Notebook Quick Start with VSCode — **](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
+
 [#00](EX_01/) #PySeries#Ep_01 - [**Python For Engineers — Exercises!**](https://medium.com/jungletronics/python-for-engenniging-exercises-977fbe4d6d02) — An overview of the Opportunities Offered by Python in Engineering!
 
 ### License
