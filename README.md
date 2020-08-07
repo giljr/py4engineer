@@ -3,7 +3,8 @@
 Hi, this is all about [Python](https://www.python.org/), easy like Python itself!
 
 Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
-In this repository I will offer all my files while I am studing Python, mainly using VSCode Editor with Jupiter Notebook :notebook_with_decorative_cover:
+
+In this repository I will offer all my files while I learn Python from scratch through self-study, mainly using VSCode Editor with Jupiter Notebook :notebook_with_decorative_cover:
 
 ```
 Why Jupyter?
@@ -28,11 +29,11 @@ And my [Youtube Channel Playlist](https://www.youtube.com/playlist?list=PLK3PeNc
 Or my old Atlassian,Inc. Repo: https://bitbucket.org/gilj3/
 
 Where I Embrace Playful Experimentation, offering you an scaffolding opportunities to Code, Hack,
-and Tinker with Arduino, Rpi, PIC, Lego too, and eventually you may _toss me some feedback_ :blush:
+and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me some feedback_ :blush:
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#00](EX_01/) #PySeries - [**Python — Jupiter Notebook Quick Start with VSCode — **](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
+[#00](EX_01/) #PySeries - [**Python — Jupiter Notebook Quick Start with VSCode**](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
 
 [#01](EX_01/) #PySeries - [**Python For Engineers — Exercises!**](https://medium.com/jungletronics/python-for-engenniging-exercises-977fbe4d6d02) — An overview of the Opportunities Offered by Python in Engineering!
 
