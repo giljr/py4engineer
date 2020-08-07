@@ -8,6 +8,7 @@ In this repository I will offer all my files while I learn Python from scratch t
 
 ```
 Why Jupyter?
+
 Jupyter is a free,
 open-source,
 interactive web tool
@@ -33,7 +34,7 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
-[#EX_00](EX_01/) #PySeries - [**Python — Jupiter Notebook Quick Start with VSCode**](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
+[#EX_00](EX_00/) #PySeries - [**Python — Jupiter Notebook Quick Start with VSCode**](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
 
 [#EX_01](EX_01/) #PySeries - [**Python For Engineers — Exercises!**](https://medium.com/jungletronics/python-for-engenniging-exercises-977fbe4d6d02) — An overview of the Opportunities Offered by Python in Engineering!
 
