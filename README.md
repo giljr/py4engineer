@@ -40,7 +40,7 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_02](EX_02/) #PySeries - [**Python For Engineers — More Exercises!**](https://medium.com/jungletronics/python-4-engineers-more-exercises-5cbab729ef11) — Another Round to Make Sure that Python is Really Amazing!
 
-# [#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basics **](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
+[#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basics **](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
 
 ### License
 
