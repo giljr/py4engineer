@@ -42,6 +42,8 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basics**](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
 
+[#EX_04](EX_04/) #PySeries - [**Numpy Init & Python Review**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — A Crash Python Review & Initialization at Numpy lib!
+
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
