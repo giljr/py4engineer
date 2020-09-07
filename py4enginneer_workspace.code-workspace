@@ -1,11 +1,8 @@
 {
   "folders": [
-	{
-		"path": "EX_04"
-	},
-	{
-		"path": "EX_05"
-	}
-],
+    {
+      "path": "EX_05"
+    }
+  ],
   "settings": {}
 }
