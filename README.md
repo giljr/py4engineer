@@ -46,6 +46,8 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_05](EX_05/) #PySeries - [**Numpy: Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Selection, and Conditional Selection
 
+[#EX_06](EX_06/) #PySeries - [**Pandas — Intro & Series**](https://medium.com/jungletronics/pandas-intro-series-970e206e2ad5) — Pandas: What it is? How to use it?
+
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
