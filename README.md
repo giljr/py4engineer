@@ -44,7 +44,7 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_04](EX_04/) #PySeries - [**Numpy Init & Python Review**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — A Crash Python Review & Initialization at Numpy lib! **Bonus:** Fun Little Quiz
 
-[#EX_05](EX_05/) #PySeries - [**Numpy: Jupyter Notebook**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — Arithmetic Operations, Indexing & Selection, and Conditional Selection
+[#EX_05](EX_05/) #PySeries - [**Numpy: Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Selection, and Conditional Selection
 
 ### License
 
