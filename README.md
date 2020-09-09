@@ -40,11 +40,11 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_02](EX_02/) #PySeries - [**Python For Engineers — More Exercises!**](https://medium.com/jungletronics/python-4-engineers-more-exercises-5cbab729ef11) — Another Round to Make Sure that Python is Really Amazing!
 
-[#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basics**](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
+[#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basic**](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
 
 [#EX_04](EX_04/) #PySeries - [**Numpy Init & Python Review**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — A Crash Python Review & Initialization at Numpy lib! **Bonus:** Fun Little Quiz
 
-[#EX_05](EX_05/) #PySeries - [**Numpy: Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Selection, and Conditional Selection
+[#EX_05](EX_05/) #PySeries - [**NumPy Arrays & Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Slicing, and Conditional Selection w/ np arrays
 
 [#EX_06](EX_06/) #PySeries - [**Pandas — Intro & Series**](https://medium.com/jungletronics/pandas-intro-series-970e206e2ad5) — Pandas: What it is? How to use it?
 
