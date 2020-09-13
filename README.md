@@ -50,6 +50,8 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 
 [#EX_07](EX_07/) #PySeries - [**Pandas DataFrames**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
 
+[#EX_08](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — More Practicing Coding Questions in Python!
+
 ### License
 
 [![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
