@@ -32,7 +32,7 @@ Or my old Atlassian,Inc. Repo: https://bitbucket.org/gilj3/
 Where I Embrace Playful Experimentation, offering you an scaffolding opportunities to Code, Hack,
 and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me some feedback_ :blush:
 
-In 2021: [Google Colab](https://colab.research.google.com/) is awesome, try it yourself! 
+In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awesome, try it yourself! 
 
 ### Projects Jupyter Notebook list (from 2020 until today):
 
@@ -42,17 +42,17 @@ In 2021: [Google Colab](https://colab.research.google.com/) is awesome, try it y
 
 [#EX_02](EX_02/) #PySeries - [**Python For Engineers — More Exercises!**](https://medium.com/jungletronics/python-4-engineers-more-exercises-5cbab729ef11) — Another Round to Make Sure that Python is Really Amazing!
 
-[#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basic**](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
+[#EX_03](EX_03/) #PySeries - [**Linear Regressions - The Basic**](https://medium.com/jungletronics/linear-regressions-the-basics-1a633f351ec2?postPublishedType=repub) — How to Understand Linear Regression Once and For All!
 
-[#EX_04](EX_04/) #PySeries - [**Numpy Init & Python Review**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — A Crash Python Review & Initialization at Numpy lib! **Bonus:** Fun Little Quiz
+[#EX_04](EX_04/) #PySeries - [**Numpy  — Init & Python Review**](https://medium.com/jungletronics/numpy-init-python-review-f5362abbaaf9) — A Crash Python Review & Initialization at Numpy lib! **Bonus:** Fun Little Quiz
 
-[#EX_05](EX_05/) #PySeries - [**NumPy Arrays & Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Slicing, and Conditional Selection w/ np arrays
+[#EX_05](EX_05/) #PySeries - [**NumPy  — Arrays & Jupyter Notebook**](https://medium.com/jungletronics/numpy-jupyter-notebook-1182f78ab4e1) — Arithmetic Operations, Indexing & Slicing, and Conditional Selection w/ np arrays
 
 [#EX_06](EX_06/) #PySeries - [**Pandas — Intro & Series**](https://medium.com/jungletronics/pandas-intro-series-970e206e2ad5) — Pandas: What it is? How to use it?
 
-[#EX_07](EX_07/) #PySeries - [**Pandas DataFrames**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
+[#EX_07](EX_07/) #PySeries - [**Pandas — DataFrames**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
  
-[#EX_08](EX_08/) #PySeries - [**Pandas DataFrames - a Dict-Like Container**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
+[#EX_08](EX_08/) #PySeries - [**Pandas — DataFrames - a Dict-Like Container**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
  
 [#EX_09](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — More Practicing Coding Questions in Python!
 
