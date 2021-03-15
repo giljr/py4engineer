@@ -54,7 +54,7 @@ In 2021: [Google Colab](https://colab.research.google.com/) is awesome, try it y
 
 [#EX_08](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — More Practicing Coding Questions in Python!
 
-[#EX_12](EX_12/) #PySeries - [**Python 4 Engineers —  Keeping It In The Short-Term Memory**](https://medium.com/jungletronics/python-4-engineers-keeping-it-in-the-short-term-memory-4f9458016171)
+[#EX_15](EX_15/) #PySeries - [**Python 4 Engineers —  Keeping It In The Short-Term Memory**](https://medium.com/jungletronics/python-4-engineers-keeping-it-in-the-short-term-memory-4f9458016171) - FAQ for you from a program supported by [Huawei](https://www.huawei.com/en/)
 
 
 ### License
