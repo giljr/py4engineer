@@ -32,6 +32,8 @@ Or my old Atlassian,Inc. Repo: https://bitbucket.org/gilj3/
 Where I Embrace Playful Experimentation, offering you an scaffolding opportunities to Code, Hack,
 and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me some feedback_ :blush:
 
+In 2021: [Google Colab](https://colab.research.google.com/) is awesome, try it yourself! 
+
 ### Projects Jupyter Notebook list (from 2020 until today):
 
 [#EX_00](EX_00/) #PySeries - [**Python — Jupiter Notebook Quick Start with VSCode**](https://medium.com/jungletronics/python-jupiter-notebook-quick-start-with-vscode-916c43c10d9a) — How to Set your Win10 Environment to use Jupiter Notebook
@@ -51,6 +53,9 @@ and Tinker with Arduino, Rpi, PIC, and Lego too, and eventually you may _toss me
 [#EX_07](EX_07/) #PySeries - [**Pandas DataFrames**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
 
 [#EX_08](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — More Practicing Coding Questions in Python!
+
+[#EX_12](EX_12/) #PySeries - [**Python 4 Engineers —  Keeping It In The Short-Term Memory**](https://medium.com/jungletronics/python-4-engineers-keeping-it-in-the-short-term-memory-4f9458016171)
+
 
 ### License
 
