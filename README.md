@@ -51,8 +51,20 @@ In 2021: [Google Colab](https://colab.research.google.com/) is awesome, try it y
 [#EX_06](EX_06/) #PySeries - [**Pandas — Intro & Series**](https://medium.com/jungletronics/pandas-intro-series-970e206e2ad5) — Pandas: What it is? How to use it?
 
 [#EX_07](EX_07/) #PySeries - [**Pandas DataFrames**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
+ 
+[#EX_08](EX_08/) #PySeries - [**Pandas DataFrames - a Dict-Like Container**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — The Primary Pandas Data Structure! It Is a Dict-Like Container for Series Objects.
+ 
+[#EX_09](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/python-4-engineers-even-more-exercises-d0141e0b06d) — More Practicing Coding Questions in Python!
 
-[#EX_08](EX_09/) #PySeries - [**Python 4 Engineers — Even More Exercises!**](https://medium.com/jungletronics/pandas-dataframes-7ba872dcbc30) — More Practicing Coding Questions in Python!
+[#EX_10](EX_10/) #PySeries - [**Pandas — Hierarchical Index & Cross-section**](https://medium.com/jungletronics/pandas-hierarchical-index-cross-section-30783023a274) —  Open your Colab notebook and here are the follow-up exercises!
+
+[#EX_11](EX_11/) #PySeries - [**Pandas — Missing Data**](https://medium.com/jungletronics/pandas-missing-data-5142f3eda2b) — More Practicing Coding Questions in Python!
+
+[#EX_12](EX_12/) #PySeries - [**Pandas — Group By**](https://medium.com/jungletronics/pandas-group-by-3140d053b9c) — Grouping large amounts of data and compute operations on these groups
+
+[#EX_13](EX_13/) #PySeries - [**Pandas — Merging, Joining & Concatenations**](https://medium.com/jungletronics/pandas-merging-joining-concatenations-a35bbe1a9dd5) — Facilities For Easily Combining Together Series or DataFrame
+
+[#EX_14](EX_14/) #PySeries - [**Pandas — Dataframes**](https://medium.com/jungletronics/pandas-operations-4b8f7a4b4139) — Examples: Column Operations
 
 [#EX_15](EX_15/) #PySeries - [**Python 4 Engineers —  Keeping It In The Short-Term Memory**](https://medium.com/jungletronics/python-4-engineers-keeping-it-in-the-short-term-memory-4f9458016171) - FAQ for you from a program supported by [Huawei](https://www.huawei.com/en/)
 
