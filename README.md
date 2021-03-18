@@ -68,6 +68,9 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_15](EX_15/) #PySeries - [**Python 4 Engineers —  Keeping It In The Short-Term Memory**](https://medium.com/jungletronics/python-4-engineers-keeping-it-in-the-short-term-memory-4f9458016171) - FAQ for you from a program supported by [Huawei](https://www.huawei.com/en/)
 
+[#EX_16](EX_16/) #PySeries - [**NumPy - NumPy Review, Again;)—  Python Review Free Exercises**](https://medium.com/jungletronics/numpy-review-again-f94f1c1c77e8) - Can you answer these twenty questions about NumPy?
+
+
 
 ### License
 
