@@ -70,6 +70,37 @@ In 2021: :point_right: [Google Colab](https://colab.research.google.com/) is awe
 
 [#EX_16](EX_16/) #PySeries - [**NumPy - NumPy Review, Again;)—  Python Review Free Exercises**](https://medium.com/jungletronics/numpy-review-again-f94f1c1c77e8) - Can you answer these twenty questions about NumPy?
 
+[#EX_17](EX_17/) #PySeries - [**Generators in Python - Python Review Free Hints**](https://medium.com/jungletronics/generators-in-python-8d3de173743e) - An Awesome Memory Efficient Tool!
+
+[#EX_18](EX_18/) #PySeries - [**Pandas Review…Again - Python Review Free Exercises**](https://medium.com/jungletronics/panda-review-again-baf0687b35de) - Can You answer these ten questions:
+
+[#EX_19](EX_19/) #PySeries - [**MatlibPlot & Seaborn Python Libs - Reviewing theses Plotting & Statistics Packs**](https://medium.com/jungletronics/matlibplot-seaborn-python-libs-459f6666f35f) - An Interactive Visualizations Lib in Python.
+
+[#EX_20](EX_20/) #PySeries - [**Seaborn Python Review - Reviewing theses Plotting & Statistics Packs**](https://medium.com/jungletronics/seaborn-python-review-9e543b6b7a44) - It Uses uses Matplotlib underneath to plot graphs.
+
+[#EX_21](EX_21/) #PySeries - [**Integration in Python - Making Your Academic Life Much Easier with Python**](https://medium.com/jungletronics/integration-in-python-d6cf4c003b36) - SymPy is a Python library for symbolic mathematics.
+
+[#EX_22](EX_22/) #PySeries - [**Pandas — One Hot Encoding (OHE) - Pandas Dataframe Examples: AI Secrets**](https://medium.com/jungletronics/pandas-one-hot-encoding-ohe-eb7467dc92e8) - How To Deals With Categorical Data in Python.
+
+[#EX_23](EX_23/) #PySeries - [**Double Integrals in Python - And Area Between Curves Resolutions**](https://medium.com/jungletronics/double-integrals-in-python-24501b20e1b9) - How To Get a Double Integration - Math4EEngineers!
+
+[#EX_24](EX_24/) #PySeries - [**3D System — Extreme Points z=f(x,y) - Finding Extreme Points By Differentiation**](https://medium.com/jungletronics/3d-system-extreme-points-z-f-x-y-a63bc21f3350) - How To Find a Function’s Derivative By Differentiation Process.
+
+[#EX_25](EX_25/) #PySeries - [**3D System — Extreme Points z=f(x) - Finding Extreme Points, again:)**](https://medium.com/jungletronics/3d-system-extreme-points-z-f-x-8d514573342e) - Differential and Integral to One Variable.
+
+[#EX_26](EX_26/) #PySeries - [**Directional Derivative — Gradient - And More: Double & Triple Derivative & Chain Rule in Python :)**](https://medium.com/jungletronics/directional-derivative-gradient-b070b823882c) - Double & Triple Derivative & Chain Rule & grads in Python!
+
+[#EX_31](EX_31/) #PySeries - [**Pandas — DATAFRAMES - When should I use pandas DataFrame?**](https://medium.com/jungletronics/pandas-dataframes-377cc20dd119) - Let’s see Pandas' DATAFRAMES again!
+
+[#EX_32](EX_32/) #PySeries - [**Linear Equations — Solve by GAUSS JORDAN - How To Use Python to Solve Linear System**](https://medium.com/jungletronics/linear-equations-solve-by-gauss-jordan-49c3c8474173) - How To Solve a System of Linear Equations By Gauss-Jordan.
+
+[#EX_33](EX_33/) #PySeries - [**Linear Equations — Solve by CREMER RULE -  How To Use Python to Solve Linear System**](https://medium.com/jungletronics/linear-equations-cremer-rule-794b11012998) - Now, Using Cremer Rule 😜
+
+[#EX_34](EX_34/) #PySeries - [**Linear Equations — Solve by GAUSS SEIDEL - How To Use Python to Solve Linear System **]() - And finally, using GAUSS SEIDEL 😎
+
+[#EX_35](EX_35/) #PySeries - [**String Formatting in Python - How To Format Strings in Python**](https://medium.com/jungletronics/string-formatting-in-python-86ad71d6058a) - This Is a Quick Note About Strings in Python ✌
+
+[#EX_36](EX_36/) #PySeries - [**Kaggle Juggle & Python - How to use kaggle Notebook to Study Python**](https://medium.com/jungletronics/kaggle-juggle-python-cf306836d0a3) - Learn How To Use kaggle platform 👌
 
 
 ### License
